@@ -19,6 +19,7 @@ color: #434455;
         --color-white: #ffffff;
         --color-dairy: #fcfcfc;
 }
+
 /*----------NAVIGATION--*/
 .header-logo {
     font-family: 'Raleway' , sans-serif;
@@ -46,6 +47,7 @@ color: #434455;
 }
 
 .header-list-main {
+    list-style-type: none;
 }
 
 .link-logo{ 
@@ -96,7 +98,7 @@ color: #434455;
     font-style: normal
 }
 
-.contacts-list {}
+.contacts-list {list-style-type: none;}
 
 .contacts-item {}
 
@@ -140,17 +142,15 @@ color: #434455;
 
 /** Секція 2 */
 
-.text {}
+.slogan {}
 
 .visually {}
 
-.text-list {}
+.slogan-list {list-style-type: none;}
 
-.list {}
+.slogan-list-item {}
 
-.text-item {}
-
-.text-title {
+.slogan-title {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -158,7 +158,7 @@ color: #434455;
         color: var(--color-navy-blue)
 }
 
-.text-paragraph {
+.slogan-paragraph {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -179,7 +179,7 @@ color: #434455;
         color: var(--color-navy-blue-modal);
 }
 
-.about-list {}
+.about-list {list-style-type: none;}
 
 .about-item {}
 
@@ -200,6 +200,7 @@ color: #434455;
 }
 
 .team-list {
+    list-style-type: none;
     background-color:var(--color-white)
 }
 
@@ -257,10 +258,10 @@ color: #434455;
 
 /* Portfolio */
 
-.menu-btn {}
+.menu {}
 
 .menu-btn-two {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto" , sans-serif;
     background: var(--color-cloud); 
     font-weight: 500;
         font-size: 16px;
@@ -280,7 +281,7 @@ color: #434455;
 
 
 
-.icon-list {}
+.icon-list {list-style-type: none;}
 
 .icon-item {}
 
