@@ -1,8 +1,8 @@
 body {
     font-family: 'Roboto' , sans-serif;
     font-style: normal;
-background-color: #FFFFFF
-color: #434455;
+background-color: --color-white
+color: var(--color-slate);
 }
 
 :root {
@@ -48,6 +48,7 @@ color: #434455;
 
 .header-list-main {
     list-style-type: none;
+    text-decoration: none;
 }
 
 .link-logo{ 
@@ -90,9 +91,7 @@ color: #434455;
 }
 
 
-.header-item-link:is(:hover, :focus) {color: #4D5AE5}
-
-.header-link {}
+.header-item-link:is(:hover, :focus) {color: var(--color-ocean)}
 
 .contacts {
     font-style: normal
@@ -136,9 +135,10 @@ color: #434455;
         color: var(--color-white);
         cursor: pointer;
 }
-.hero-btn:is(:hover, :focus) {
+.hero-btn:hover {
     color: var(--color-ocean)
 }
+.hero-btn:focus{ color: var(--color-ocean)}
 
 /** Секція 2 */
 
