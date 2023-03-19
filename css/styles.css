@@ -102,7 +102,6 @@ color: var(--color-slate);
 .contacts-item {}
 
 .contacts-link{
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -159,7 +158,6 @@ color: var(--color-slate);
 }
 
 .slogan-paragraph {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -218,7 +216,6 @@ color: var(--color-slate);
 }
 
 .team-position {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         text-align: center;
@@ -249,7 +246,6 @@ color: var(--color-slate);
 }
 
 .footer-paragraph {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -259,7 +255,8 @@ color: var(--color-slate);
 /* Portfolio */
 
 .
-.btn-list{ list-style-type: none;}
+.btn-list{ list-style-type: none;
+}
 
 .btn-list-item:hover { color:#ffffff
 background-color: var(--color-ocean)
