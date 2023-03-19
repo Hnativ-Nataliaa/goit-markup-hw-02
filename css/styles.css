@@ -261,7 +261,13 @@ color: var(--color-slate);
 .
 .btn-list{ list-style-type: none;}
 
-.btn-list-item{}
+.btn-list-item:hover { color:#ffffff
+background-color: var(--color-ocean)
+}
+.btn-list-item:focus {
+        color: #ffffff
+        background-color: var(--color-ocean)
+    }
 
 .menu-btn-two {
     font-family: "Roboto" , sans-serif;
@@ -287,6 +293,10 @@ color: var(--color-slate);
 .icon-list {list-style-type: none;}
 
 .icon-item {}
+
+.link-img {
+    text-decoration: none
+}
 
 .icon-title {
     font-weight: 500;
