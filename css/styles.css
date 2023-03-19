@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto' , sans-serif;
     font-style: normal;
 background-color:#ffffff
-color: #434455;
+color:var(--color-slate);
 }
 
 :root {
