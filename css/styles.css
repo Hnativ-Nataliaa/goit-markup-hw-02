@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto' , sans-serif;
     font-style: normal;
-background-color:#ffffff
+background-color:#ffffff;
 color:var(--color-slate);
 }
 
@@ -38,7 +38,7 @@ link {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--color-iris); 
-    text-decoration: none
+    text-decoration: none;
 }
 
 .header-logo-web {
@@ -88,10 +88,10 @@ link {
 }
 
 
-.header-item-link:is(:hover, :focus) {color: var(--color-ocean)}
+.header-item-link:is(:hover, :focus) {color: var(--color-ocean);}
 
 .contacts {
-    font-style: normal
+    font-style: normal;
 }
 
 .contacts-list { list-style-type: none;}
@@ -103,9 +103,9 @@ link {
         color: var(--color-slate);
         text-decoration: none;
 }
-.contacts-link:hover{color: var(--color-ocean)}
+.contacts-link:hover{color: var(--color-ocean);}
 .contacts-link:focus {
-    color: var(--color-ocean)
+    color: var(--color-ocean);
 }
 /* Секція 1 */
 .hero{
@@ -134,9 +134,9 @@ link {
 }
 
 .hero-btn:hover {
-background-color: var(--color-ocean)
+background-color: var(--color-ocean);
 }
-.hero-btn:focus{ background-color: var(--color-ocean)}
+.hero-btn:focus{ background-color: var(--color-ocean);}
 
 /** Секція 2 */
 .slogan-list {list-style-type: none;}
@@ -230,10 +230,10 @@ background-color: var(--color-ocean)
 .btn-list{ list-style-type: none;
 }
 .btn-list-item:hover { 
-background-color: var(--color-ocean)
+background-color: var(--color-ocean);
 }
 .btn-list-item:focus {
-        background-color: var(--color-ocean)
+        background-color: var(--color-ocean);
     }
 
 .menu-btn-two {
