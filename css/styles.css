@@ -19,7 +19,13 @@ color:var(--color-slate);
         --color-white: #ffffff;
         --color-dairy: #fcfcfc;
 }
+.list {
+    list-style: none;
+}
 
+.link {
+    text-decoration: none;
+}
 /*----------NAVIGATION--*/
 .header-logo {
     font-family: 'Raleway' , sans-serif;
