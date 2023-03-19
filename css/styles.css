@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto' , sans-serif;
     font-style: normal;
 background-color:#ffffff
-color: #434455
+color: #434455;
 }
 
 :root {
@@ -164,7 +164,7 @@ background-color: var(--color-ocean)
 /* Секція 4 */
 
 .team {
-    background:var(--color-white)
+    background-color:var(--color-cloud);
 }
 .team-title {
     font-weight: 700;
@@ -177,7 +177,7 @@ background-color: var(--color-ocean)
 }
 .team-list {
     list-style-type: none;
-    background-color:var(--color-white)
+    background-color:var(--color-white);
 }
 .team-name {
     font-weight: 500;
