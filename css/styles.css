@@ -264,7 +264,7 @@ background-color: var(--color-ocean)
 .icon-list {list-style-type: none;}
 
 .link-img {
-    text-decoration: none
+    text-decoration: none;
 }
 
 .icon-title {
