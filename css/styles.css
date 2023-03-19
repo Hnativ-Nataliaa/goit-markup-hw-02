@@ -259,6 +259,9 @@ color: var(--color-slate);
 /* Portfolio */
 
 .menu {}
+.btn-list{ list-style-type: none;}
+
+.btn-list-item{}
 
 .menu-btn-two {
     font-family: "Roboto" , sans-serif;
