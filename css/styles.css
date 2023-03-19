@@ -19,11 +19,11 @@ color:var(--color-slate);
         --color-white: #ffffff;
         --color-dairy: #fcfcfc;
 }
-.list {
+list {
     list-style: none;
 }
 
-.link {
+link {
     text-decoration: none;
 }
 /*----------NAVIGATION--*/
