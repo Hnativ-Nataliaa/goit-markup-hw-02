@@ -182,9 +182,10 @@ background-color: var(--color-ocean);
 }
 .team-list {
     list-style-type: none;
-    background-color:var(--color-white);
 }
-
+.team-item {
+background-color: var(--color-white);
+}
 .team-name {
     font-weight: 500;
         font-size: 20px;
