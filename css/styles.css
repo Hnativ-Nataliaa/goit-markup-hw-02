@@ -28,7 +28,6 @@ color:var(--color-slate);
 /*----------NAVIGATION--*/
 .header-logo {
     font-family: 'Raleway' , sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -52,7 +51,6 @@ color:var(--color-slate);
 
 .link-logo{ 
     font-family: 'Raleway' , sans-serif;
-        font-style: normal;
         font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
@@ -64,7 +62,6 @@ color:var(--color-slate);
 }
 .link-logo-web{
     font-family: 'Raleway', sans-serif;
-        font-style: normal;
         font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
@@ -111,7 +108,6 @@ color:var(--color-slate);
     background: var(--color-grey);
 }
 .hero-title{
-    font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
         text-align: center;
@@ -121,7 +117,6 @@ color:var(--color-slate);
 .hero-btn{
     background: var(--color-iris);
     font-family: "Roboto", sans-serif;
-        font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -155,7 +150,6 @@ background-color: var(--color-ocean);
 /* Секція 3 */
 
 .about-title {
-    font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
@@ -172,7 +166,6 @@ background-color: var(--color-ocean);
     background-color:var(--color-cloud);
 }
 .team-title {
-    font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
@@ -207,7 +200,6 @@ background-color: var(--color-white);
 }
 .footer-link {
     font-family: 'Raleway' , sans-serif;
-        font-style: normal;
         font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
@@ -282,5 +274,3 @@ background-color: var(--color-white);}
         letter-spacing: 0.02em;
         color: var(--color-slate);
 }
-/* *Portfolio 2 */
-
